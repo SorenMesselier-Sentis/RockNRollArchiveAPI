@@ -75,3 +75,7 @@ yarn dev
   - POST /media
   - PUT /media/:id
   - DELETE /media/:id
+
+### More Informations
+
+The Logo was created by using Adobe Firefly AI.
