@@ -1,6 +1,6 @@
 # RockNRollArchive
 
-![MetalVault Logo](/src/assets/images/logo.jpg "MetalVault Logo")
+<img src="/src/assets/images/logo.jpg" alt="MetalVault Logo" width="200"/>
 
 Store all photos/videos of concerts.
 
