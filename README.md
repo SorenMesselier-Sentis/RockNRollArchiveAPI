@@ -16,8 +16,16 @@ This API is a music archive that allows users to search for artists and concerts
 
 ## Installation
 
+To install the project, you need to clone the repository and install the dependencies.
+
 ```bash
 yarn install
+```
+
+After that, you can run the project with the following command:
+
+```bash
+yarn dev
 ```
 
 ## API Endpoints
